@@ -28,7 +28,7 @@ software development
 
 <p >
     <b>Looking for a tech bro?
-        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect on Linkedin!</a>
+        <a href="https://www.linkedin.com/in/minhnldang">Let's connect on Linkedin!</a>
     </b>
 </p>
 
