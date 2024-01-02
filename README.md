@@ -1,7 +1,7 @@
-# Hey! It's me, Minh (minhnld). Your friendly neighborhood Developer
+# Hey! It's me, Minh. Your friendly neighborhood Developer
 
 Computer science nerd and aspiring software entrepreneur  
-#tech #startup #books #engineering #backend #AI
+#tech #startup #engineering #backend #AI
 ## About Me
 <img align="right" alt="Minh Nguyen Linh Dang with Elsa 3D figure present the Github Page of minhnld" width="350" src="img/20231009_211534-ANIMATION.gif" />
 
@@ -47,7 +47,7 @@ software development
 
 
 ## GH Stats
-Mostly contribute to private repository so it nothing here, hopefully I  can contribute to more in 2024. 
+Mostly contribute to private repository so it nothing here, hopefully I  can contribute to community more in 2024. 
 
 I have a lot of interesting private repos that I will try my best to share and open-source to community soon.
 
