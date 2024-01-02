@@ -47,7 +47,7 @@ software development
 
 
 ## GH Stats
-Mostly contribute to private repository so it nothing here, hopefully I  can contribute to more in 2024. 
+Mostly contribute to private repository so it nothing here, hopefully I  can contribute to community more in 2024. 
 
 I have a lot of interesting private repos that I will try my best to share and open-source to community soon.
 
