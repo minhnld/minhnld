@@ -1,4 +1,4 @@
-# Hey! It's me, Minh (minhnld). Your friendly neighborhood Developer
+# Hey! It's me, Minh. Your friendly neighborhood Developer
 
 Computer science nerd and aspiring software entrepreneur  
 #tech #startup #engineering #backend #AI
