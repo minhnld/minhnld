@@ -1,7 +1,7 @@
 # Hey! It's me, Minh (minhnld). Your friendly neighborhood Developer
 
 Computer science nerd and aspiring software entrepreneur  
-#tech #startup #books #engineering #backend #AI
+#tech #startup #engineering #backend #AI
 ## About Me
 <img align="right" alt="Minh Nguyen Linh Dang with Elsa 3D figure present the Github Page of minhnld" width="350" src="img/20231009_211534-ANIMATION.gif" />
 
