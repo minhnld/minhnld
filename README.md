@@ -18,7 +18,7 @@ Computer science nerd and aspiring software entrepreneur
 #### Years of experience
 - Software Engineer with a background in fullstack
 software development
-- Roughly 4.5 year experiences
+- 5+ year industry experiences
 #### Some notable company
 - Software Engineer @[**Yum! Brands Inc. - Pizza Hut Digital Ventures**][pzh] 
 - Software Engineer @[**Kamereo**][kame]
